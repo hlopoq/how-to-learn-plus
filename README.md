@@ -2,7 +2,7 @@
 
 Первый учебный проект по верстке статических веб-страниц
 
-[Реализация](https://github.com/hlopoq/how-to-learn-plus)
+[Реализация](https://hlopoq.github.io/how-to-learn-plus/)
 
 # Стек:
 
